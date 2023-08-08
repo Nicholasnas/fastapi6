@@ -1,2 +1,1 @@
-# fastapi6
-# fastapi6
+# Curso Fastapi sessao 6
